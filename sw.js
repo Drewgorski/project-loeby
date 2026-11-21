@@ -12,7 +12,7 @@
 // Replaced at build time with the bundle's content hash, so every deploy gets a
 // brand-new cache and `activate` deletes the previous one. A fixed name meant
 // the offline shell kept pointing at assets that no longer exist on the server.
-const VERSION = 'ploeby-BKJBZJsv';
+const VERSION = 'ploeby-BwMFqDoG';
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
